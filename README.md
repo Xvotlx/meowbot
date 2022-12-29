@@ -1,4 +1,5 @@
-![MeowBot](https://i.imgur.com/Na3poBw.png)# MeowBot 
+![MeowBot](https://i.imgur.com/Na3poBw.png)
+# MeowBot 
 MeowBot is an AI cat chatting bot developed using Node.js and the GPT-3 API. It is designed to engage in natural conversations with users and provide companionship and entertainment. In addition, MeowBot has a variety of commands and features that allow users to practice coding and solve challenges, making it a useful tool for learning and improving your skills.
 
 
