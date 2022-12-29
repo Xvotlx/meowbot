@@ -1,0 +1,36 @@
+{
+  "name": "meowbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinoelhadj/meowbot.git"
+  },
+  "keywords": [
+    "ai",
+    "bot",
+    "gpt",
+    "gpt3",
+    "openai",
+    "chatgpt",
+    "telegram",
+    "chat",
+    "chatbot"
+  ],
+  "author": "dinoelhadj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinoelhadj/meowbot/issues"
+  },
+  "homepage": "https://github.com/dinoelhadj/meowbot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.60.0",
+    "openai": "^3.1.0"
+  }
+}
