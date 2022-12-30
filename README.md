@@ -17,7 +17,8 @@ To install MeowBot, follow these steps:
 
  3.  Install the dependencies:
 
-`npm install`
+    npm install
+
 
 ## Configuration
 Before you can use MeowBot, you will need to set up a few configuration options.
